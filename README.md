@@ -26,11 +26,11 @@
   <img src="./assets/sample.png" height="70%" width="70%"/>
 </p>
 
-This repository contains an easy-to-use and understand code to fine-tune VLMs (Visual Language Models). In this case, we'll be fine tuning [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct). Refer to the `fine-tune-vlms-qwen.ipynb` file.
+This repository contains an easy-to-use and understand code to fine-tune VLMs (Visual Language Models). In this case, we'll be fine tuning [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct). We will be using LoRA adapter and 4-bit quantization. Refer to the `fine-tune-vlms-qwen.ipynb` file.
 
 ## YouTube Tutorial
 <div align="center">
-    <a href="https://youtu.be/6XeTk8cZUsM">Fine-Tune Visual Language Models (VLMs) - HuggingFace, PyTorch</a>
+    <a href="https://youtu.be/6XeTk8cZUsM">Fine-Tune Visual Language Models (VLMs) - HuggingFace, PyTorch, LoRA, Quantization, TRL</a>
     <br>
     <br>
     <a href="https://www.youtube.com/watch?v=3ypHZayanBI&feature=youtu.be">
