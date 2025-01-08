@@ -26,7 +26,11 @@
   <img src="./assets/sample.png" height="70%" width="70%"/>
 </p>
 
-This repository contains an easy-to-use and understand code to fine-tune VLMs (Visual Language Models). In this case, we'll be fine tuning [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct). We will be using LoRA adapter and 4-bit quantization. Refer to the `fine-tune-vlms-qwen.ipynb` file.
+This repository contains an easy-to-use and understand code to fine-tune VLMs (Visual Language Models). 
+
+With VLMs, you can ask a question about an image, and get an answer. We'll do it on images with visual data representations. Such as graphs and charts. We'll use [HuggingFaceM4/ChartQA](https://huggingface.co/datasets/HuggingFaceM4/ChartQA) as the dataset.
+
+In this case, we'll be fine tuning [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct). We will be using LoRA adapter and 4-bit quantization. Refer to the `fine-tune-vlms-qwen.ipynb` file.
 
 ## YouTube Tutorial
 <div align="center">
