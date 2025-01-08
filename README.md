@@ -34,7 +34,7 @@ In this case, we'll be fine-tuning [Qwen/Qwen2-VL-7B-Instruct](https://huggingfa
 
 ## YouTube Tutorial
 <div align="center">
-    <a href="https://youtu.be/6XeTk8cZUsM">Fine-Tune Visual Language Models (VLMs) - HuggingFace, PyTorch, LoRA, Quantization, TRL</a>
+    <a href="https://www.youtube.com/watch?v=3ypHZayanBI&feature=youtu.be">Fine-Tune Visual Language Models (VLMs) - HuggingFace, PyTorch, LoRA, Quantization, TRL</a>
     <br>
     <br>
     <a href="https://www.youtube.com/watch?v=3ypHZayanBI&feature=youtu.be">
